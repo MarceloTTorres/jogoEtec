@@ -649,6 +649,74 @@ This combination is particularly representative of projects developed within an 
 
 ---
 
+## 👥 Development Team & Contributors
+
+**jogoEtec** was developed as a collaborative project for **ETEC de Araraquara**, bringing together software development, game design and educational objectives.
+
+### Project Coordination
+
+**Marcelo Torres**
+Project coordination, software development, architecture and educational context.
+
+### Contributors
+
+Special thanks to the students and collaborators who contributed to the development of the project:
+
+| Contributor             | Contribution                   |
+| ----------------------- | ------------------------------ |
+| **Danielly029 (https://github.com/Danielly029)** | Game development / programming |
+| **GabiFM010 (https://github.com/GabiFM010)** | Game development / programming |
+| **Rafael12258 (https://github.com/Rafael12258)** | Game design / gameplay         |
+
+> This project was developed collaboratively, providing students with practical experience in software engineering, C#, Unity, game development, version control and team-based development.
+
+### 🤝 Collaborative Development
+
+The project represents a collaborative software-development experience within the **ETEC de Araraquara** educational environment.
+
+Contributors participated in different aspects of the project, including:
+
+* C# programming
+* Unity development
+* Gameplay systems
+* Game design
+* Level and map development
+* UI and dialogue systems
+* Game assets
+* Testing and debugging
+* Documentation
+* Version control and collaboration
+
+The collaborative nature of the project is an important part of its educational value, providing an environment where students could experience practices similar to those used by professional software-development teams.
+
+### 🎓 Educational Context
+
+The project was developed for **ETEC de Araraquara** with the goal of combining technical learning with practical software development.
+
+Rather than being an individual coding exercise, **jogoEtec** was developed as a team project, allowing participants to work with different responsibilities within a larger software system.
+
+This included working with:
+
+```text
+Requirements
+     ↓
+Game Design
+     ↓
+Programming
+     ↓
+Integration
+     ↓
+Testing
+     ↓
+Iteration
+     ↓
+Final Game
+```
+
+This collaborative workflow mirrors important practices found in professional software-engineering teams.
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License**.
